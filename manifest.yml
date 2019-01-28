@@ -68,7 +68,7 @@ dependencies:
 - name: CAAPM
   version: 10.7.3
   uri: https://ca.bintray.com/apm-agents/CA-APM-PHPAgent-10.7.3_linux.tar.gz
-  sha256: e3c614922d3695b7873b0eca1f696e2258da0fad09ab3597b5c469e51c21dbf3
+  sha256: 5f50ffae4b304e4f7c85e9ccf2e55fc82007c42b2c7e62e5b71c352cfea0ffea
   cf_stacks:
   - cflinuxfs2
 - name: appdynamics
