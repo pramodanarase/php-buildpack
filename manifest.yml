@@ -67,8 +67,8 @@ dependency_deprecation_dates:
 dependencies:
 - name: CAAPM
   version: 10.7.3
-  uri: https://ca.bintray.com/apm-agents/CA-APM-PHPAgent-10.7.3_linux.tar.gz
-  sha256: 69ba0fb4c1f2bf7b2fcf23c170047acf6f1a100515bc6198b667ad19c70b7821
+  uri: https://github.com/pramodanarase/php-agent-artifact/raw/master/CA-APM-PHPAgent-10.7.3_linux.tar.gz
+  sha256: 582d3cc2bdb4e49e91798fef0444a73002230072d219bc2e5a1a516a66e3684b
   cf_stacks:
   - cflinuxfs2
 - name: appdynamics
