@@ -68,7 +68,7 @@ dependencies:
 - name: CAAPM
   version: 10.7.3
   uri: https://github.com/pramodanarase/php-agent-artifact/raw/master/CA-APM-PHPAgent-10.7.3_linux.tar.gz
-  sha256: 325cf7a0286bcc39a64a8b9bd9650c2ff7ce6632a5a74b108345d830046a4ca3
+  sha256: 212a73a2f81efe4eac8ce63ca014398759a0487d3d5f70a558fcdb72cc056bbb
   cf_stacks:
   - cflinuxfs2
 - name: appdynamics
